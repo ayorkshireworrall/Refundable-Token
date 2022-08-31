@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ayorkshireworrall/Refundable-Token/issues"
   },
-  "homepage": "https://github.com/ayorkshireworrall/Refundable-Token#readme"
+  "homepage": "https://github.com/ayorkshireworrall/Refundable-Token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
 }
